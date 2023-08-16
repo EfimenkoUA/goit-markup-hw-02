@@ -1,0 +1,73 @@
+/*=========================== Reset setting ==================*/
+body {
+    font-family: "Roboto", "Verdana", sans-serif;
+    color: #2E2F42;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color:#2E2F42;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+/*===================== Header ===================*/
+
+.header__logo:hover {
+    color: #404bbf;
+}
+.header__logo:focus {
+    color: #404bbf;
+}
+
+.menu-header__link:hover {
+    color: #404bbf;
+}
+.menu-header__link:focus {
+    color: #404bbf;
+}
+
+.header-contacts__item a:hover {
+    color: #404bbf;
+}
+.header-contacts__item a:focus {
+    color: #404bbf;
+}
+
+/*=================================== MAIN ======================*/
+
+/*============================Solution=====================*/
+.solution__btn {
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+.solution__btn:hover {
+    background-color: #404BBF;
+}
+.solution__btn:focus {
+    background-color: #404BBF;
+}
+
